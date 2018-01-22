@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=AbstractDrawing
+comment1.params=colour
+comment1.target=void\ setColour(java.lang.String)
+comment2.params=
+comment2.target=java.lang.String\ getColour()
+comment3.params=drawing
+comment3.target=void\ add(AbstractDrawing)
+comment4.params=
+comment4.target=void\ print()
+numComments=5
